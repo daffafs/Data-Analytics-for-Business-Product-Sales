@@ -1,4 +1,5 @@
-![pexels-lukas-669619](https://user-images.githubusercontent.com/102637138/220520483-60505439-61e5-48b7-ad6b-76a4491e7c01.jpg)
+![pexels-lukas-669619](https://user-images.githubusercontent.com/102637138/220521485-1bb5e6e6-e0e4-4028-a7fb-10e008635841.jpg)
+
 
 # Project Problem
 The sales department of a company that sells electronic goods has one year sales information. They want to do an analysis of the data to obtain information as a supporting material for decision making in their business. Because now the assumption is the end of the year. The company wants to provide a strategy to increase sales and customers. However, the company does not yet have a special strategy in the future. As data analyst, we are needed to process sales data in order to provide knowledge to the sales department and help answer the questions raised by them including:
